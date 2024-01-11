@@ -6,7 +6,7 @@
 
 ```bash
 .
-├── mock                       # 项目mock 模拟数据
+├── .github                    # github自动化，自动打包到dist分支
 ├── plop-templates             # 基本模板
 ├── public                     # 静态资源
 │   │── favicon.ico            # favicon图标
